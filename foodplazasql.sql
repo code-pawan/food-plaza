@@ -1,9 +1,4 @@
-use jdbcex;
-show tables;
-drop table student64;
-create database jdbcex;
 
-select * from student64;
 create database Project1;
 use 	Project1;
 
